@@ -7,4 +7,4 @@ It takes user input for an incomplete 4×4 Sudoku board, solves it using a recur
 
 2. Uses a backtracking algorithm to find the solution.
 
-3. Displays solved board visually using Java Swing.
+3. Displays solved board visually.
